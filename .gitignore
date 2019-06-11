@@ -20,6 +20,7 @@ var/
 *.vscode/
 node_modules/
 *.pyc
+*__pycache__/
 
 # Serverless directories
 .serverless
